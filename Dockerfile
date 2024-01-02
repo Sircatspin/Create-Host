@@ -1,4 +1,4 @@
-FROM ubuntu:22
+FROM debian:9
 LABEL maintainer="wingnut0310 <wingnut0310@gmail.com>"
 
 ENV LANG en_US.UTF-8
